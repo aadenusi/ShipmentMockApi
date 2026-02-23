@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShipmentMockApi.csproj" />
+  <Project Path="ShipmentMockApi.IntegrationTests/ShipmentMockApi.IntegrationTests.csproj" />
+  <Project Path="ShipmentMockApi.Tests/ShipmentMockApi.Tests.csproj" />
+</Solution>
